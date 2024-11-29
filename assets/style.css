@@ -1,0 +1,32 @@
+header {
+    background-color: yellow;
+    border: 2px solid black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: yellow;
+  }
+  
+  li {
+    float: right;
+
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration: none;
+  }
+  li a:hover{
+    background-color: green;
+  }
+  nav{
+    background-color: yellow;
+    height: 280px;
+    border: 2px solid black;
+  }
