@@ -64,4 +64,14 @@ article div {
   border: 1px solid black;
   
 }
+.article{
+  float: right;
+  justify-content: center;
+  align-content: center;
+  justify-content: space-evenly;
+}
 
+#first{
+  display:flexbox;
+ 
+}
